@@ -6,7 +6,7 @@ title: 博客主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: qq
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 君子以自强不息
 projects:
   - icon: folder-open
     name: 项目名称
